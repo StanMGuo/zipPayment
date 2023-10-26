@@ -1,0 +1,3 @@
+[submodule "QuadPaySDK"]
+	path = QuadPaySDK
+	url = https://github.com/quadpay/quadpay-merchant-sdk-ios
